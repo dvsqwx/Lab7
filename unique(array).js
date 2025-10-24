@@ -1,3 +1,5 @@
+"use strict";
+
 function unique(array) {
   const result = [];
   for (const item of array) {
