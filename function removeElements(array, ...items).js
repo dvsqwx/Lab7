@@ -1,3 +1,5 @@
+"use strict";
+
 function removeElements(array, ...items) {
   for (const item of items) {      
     const index = array.indexOf(item);
