@@ -1,3 +1,5 @@
+"use strict";
+
 function difference(array1, array2) {
   const result = [];
   for (const item of array1) {
